@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Neighbor Dog Dot Com, the App
+
+bark bark
+
+
+## Getting Started with React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
